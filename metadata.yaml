@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/601
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Ransome
 description: Twenty-one Russian fairy tales told by Old Peter to his two grandchildren.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16981#Old-Peter-s-Russian-Tales
 gutenberg_issued: '2005-11-02'
 gutenberg_type: Text
 identifiers:
